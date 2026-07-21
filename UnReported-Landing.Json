@@ -1,0 +1,25 @@
+{
+	"keys": [
+		"path"
+	],
+	"values": [
+		[
+			"incidents"
+		],
+		[
+			"reports"
+		],
+		[
+			"related-resources"
+		],
+		[
+			"press-releases"
+		],
+		[
+			"about-us"
+		],
+		[
+			"laws"
+		]
+	]
+}
